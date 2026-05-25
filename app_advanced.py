@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 TFIDF_MODEL_PATH = Path("models/tfidf_lr.joblib")
-DEFAULT_TRANSFORMER_DIR = Path("models/roberta_spam")
+DEFAULT_TRANSFORMER_DIR = "kudouKID/spam-text-detect-roberta"
 
 @st.cache_resource(show_spinner=False)
 def load_tfidf_model():
@@ -30,10 +30,12 @@ def load_tfidf_model():
 def load_optional_transformer(model_dir: str):
     try:
         from spam_detector.bert_model import load_transformer_model
+        # Check if the input is a local path or a huggingface hub id
         path = Path(model_dir)
-        if not path.exists():
+        if path.exists() or "/" in model_dir:
+            return load_transformer_model(model_dir), None
+        else:
             return None, f"未找到 Transformer checkpoint：{path}"
-        return load_transformer_model(path), None
     except Exception as exc:
         return None, str(exc)
 
@@ -130,7 +132,7 @@ with st.sidebar:
         index=0,
     )
     threshold = st.slider("风险阈值", 0.0, 1.0, 0.50, 0.01)
-    transformer_dir = st.text_input("Transformer checkpoint 目录", value=str(DEFAULT_TRANSFORMER_DIR))
+    transformer_dir = st.text_input("Transformer 目录或云端模型名称", value=str(DEFAULT_TRANSFORMER_DIR))
     st.info("未训练 RoBERTa checkpoint 时，系统会自动回退到 TF-IDF/LR 或规则检测。")
 
 examples = [
