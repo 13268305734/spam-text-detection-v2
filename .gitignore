@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+.conda/
+.venv/
+venv/
+ENV/
+
+# 深度学习模型权重 (Github 不允许上传超过100MB的大文件)
+*.safetensors
+*.bin
+*.h5
+*.hdf5
+models/roberta_spam/
+*.msgpack
+*.ot
+
+# 测试与缓存相关
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 开发工具
+.vscode/
+.idea/
+.DS_Store

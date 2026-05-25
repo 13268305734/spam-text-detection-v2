@@ -1,0 +1,2401 @@
+﻿text,label,source
+项目进度正常，明天继续整理实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。优 惠,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。私 聊,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+🔥加薇信免 费领·取课程资料，数量有限。返·现！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+点击www.example.com领·取福利。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。返现,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+🔥进群领取福利，群内每天发红包。加微信！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。私聊,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+🔥博彩平台开户，首充返利，私 聊领·取。！！！,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 数据清洗部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。优惠,1,synthetic_spam
+我觉得这个算法还有优化空间 可以继续调参。 数据清洗部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。加微信,1,synthetic_spam
+加微信免费领取课程资料，数量有限。私聊,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+私聊我返现，扫码进群领红包。免费,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 系统设计部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+点击www.example.com领·取福利。免 费,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 数据清洗部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 实验分析部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+项目进度正常 明天继续整理实验结果。 报告撰写部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+添加客服微信，免费领取内部资料。私聊,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 系统设计部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥V信联系，免 费领·取资料包。！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。优惠,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+项目进度正常 明天继续整理实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。代理,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 报告撰写部分还需要完善。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。优惠,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 系统设计部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 课程作业部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。返现,1,synthetic_spam
+添加客服微信，免费领取内部资料。链接,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 报告撰写部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 代码注释部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 模型训练部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 系统设计部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 学习计划部分还需要完善。,0,synthetic_normal
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+数据标注规范需要统一 否则会影响实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。扫码！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 数据清洗部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。私聊,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。扫码,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。加薇信,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。加微信,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+这个电影剧情一般 但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 系统设计部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+点击www.example.com领取福利。扫码,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 系统设计部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。优 惠！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。优惠,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+添加客服微信，免费领取内部资料。私聊,1,synthetic_spam
+🔥加微代理赚钱，团队扶持，轻松月入过万。免费！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。扫码,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 代码注释部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 算法实现部分还需要完善。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。加薇信,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 课堂讨论部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 学习计划部分还需要完善。,0,synthetic_normal
+🔥添加客服微信，免费领取内部资料。代理！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 学习计划部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。加微信,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。优 惠,1,synthetic_spam
+低价推广引流，精准获客，联系wx。进群,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥点击链 接领·取优 惠券，限时秒杀。免 费！！！,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 模型训练部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间 可以继续调参。 实验分析部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。红包,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。！！！,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+🔥贷款快速到账，无需抵押，薇信联系。！！！,1,synthetic_spam
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 数据清洗部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。加薇信,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+🔥联系电话13800138000，优惠名额有限。扫码！！！,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 课堂讨论部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。扫码,1,synthetic_spam
+联系电话13800138000，优惠名额有限。代理,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。优 惠！！！,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 报告撰写部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 课程作业部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。代理,1,synthetic_spam
+今天的天气很好 下午准备去图书馆学习。,0,synthetic_normal
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。链 接,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+添加客服微信，免费领取内部资料。免费,1,synthetic_spam
+联系电话13800138000，优惠名额有限。优惠,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。免 费,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+🔥贷款快速到账，无需抵押，薇信联系。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 代码注释部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 课程作业部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。扫码,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 数据清洗部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 报告撰写部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。进群,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 代码注释部分还需要完善。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。免 费,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。扫码,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 系统设计部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。进群,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。返现,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。红包！！！,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。扫码,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 报告撰写部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+点击www.example.com领·取福利。扫码,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 学习计划部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 实验分析部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+点击www.example.com领取福利。返现,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。扫码,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 课堂讨论部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+进群领取福利，群内每天发红包。免费,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。代理,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥V信联系，免费领取资料包。！！！,1,synthetic_spam
+🔥点击www.example.com领·取福利。！！！,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 课程作业部分还需要完善。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 报告撰写部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。免费,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，微信联系。！！！,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。 实验分析部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。！！！,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 算法实现部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 数据清洗部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 课堂讨论部分还需要完善。,0,synthetic_normal
+今天的天气很好 下午准备去图书馆学习。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。链 接,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。 学习计划部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。红包,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常 明天继续整理实验结果。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 数据清洗部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+私聊我返现，扫码进群领红包。扫码,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+请大家按时提交报告和代码说明。 系统设计部分还需要完善。,0,synthetic_normal
+🔥点击链接领取优惠券，限时秒杀。扫码！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。代理,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。返·现,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。加薇信,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 模型训练部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 数据清洗部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 报告撰写部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+🔥V信联系，免 费领·取资料包。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 模型训练部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 课程作业部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。扫码,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+添加客服微信，免费领取内部资料。加微信,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。免 费,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。返现,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。私聊！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 模型训练部分还需要完善。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。代理,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+🔥点击www.example.com领取福利。私聊！！！,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。扫码,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。免费,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 系统设计部分还需要完善。,0,synthetic_normal
+项目进度正常 明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。进群,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+V信联系，免费领取资料包。红包,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+数据标注规范需要统一 否则会影响实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。优惠,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。免费,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+点击www.example.com领取福利。返现,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+点击www.example.com领取福利。扫码,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这个电影剧情一般 但演员表现还可以。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+私聊我返现，扫码进群领红包。免费,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 系统设计部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+进群领取福利，群内每天发红包。优惠,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+数据标注规范需要统一 否则会影响实验结果。 报告撰写部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。私 聊,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。免 费,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 学习计划部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 学习计划部分还需要完善。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。优 惠,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。！！！,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+🔥点击www.example.com领·取福利。！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 数据清洗部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。优 惠,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 算法实现部分还需要完善。,0,synthetic_normal
+🔥V信联系，免 费领·取资料包。链 接！！！,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。加薇信,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 课堂讨论部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+私聊我返现，扫码进群领红包。优惠,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 报告撰写部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+点击www.example.com领取福利。扫码,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+点击www.example.com领取福利。加微信,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 代码注释部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 代码注释部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 报告撰写部分还需要完善。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。进群,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+🔥联系电话13800138000，优惠名额有限。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。扫码,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 代码注释部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。免 费,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 代码注释部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。扫码,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 实验分析部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，薇信联系。免 费！！！,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 代码注释部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。扫码,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 算法实现部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 算法实现部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 课程作业部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。加微信,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。进群,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。私 聊,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 系统设计部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。加微信,1,synthetic_spam
+🔥加微信免费领取课程资料，数量有限。！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+🔥兼职刷单日结，佣金秒到账，加vx了解。红包！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 学习计划部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+🔥加薇信领优 惠，名额有限先到先得。！！！,1,synthetic_spam
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 课程作业部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 实验分析部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 数据清洗部分还需要完善。,0,synthetic_normal
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。链 接,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 算法实现部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 算法实现部分还需要完善。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 实验分析部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 代码注释部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。私聊,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 算法实现部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+这家店的服务态度不错 物流速度也很快。 课堂讨论部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。进群,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+V信联系，免 费领·取资料包。扫码,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 课堂讨论部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。红包,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 代码注释部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。返现,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。链接,1,synthetic_spam
+进群领取福利，群内每天发红包。返现,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。红包,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 算法实现部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。返现！！！,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。红包！！！,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+V信联系，免 费领·取资料包。优 惠,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。返·现,1,synthetic_spam
+🔥点击链 接领·取优 惠券，限时秒杀。！！！,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。返现,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。优 惠,1,synthetic_spam
+点击www.example.com领·取福利。进群,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 数据清洗部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。扫码,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。扫码！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 算法实现部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 报告撰写部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 报告撰写部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 模型训练部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。优 惠！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。进群,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，薇信联系。优 惠！！！,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。加薇信,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。扫码,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 课程作业部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 课程作业部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 实验分析部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。红包！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+🔥私聊我返现，扫码进群领红包。红包！！！,1,synthetic_spam
+V信联系，免费领取资料包。扫码,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。私聊,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 模型训练部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 学习计划部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥点击www.example.com领取福利。扫码！！！,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+今天的天气很好 下午准备去图书馆学习。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+🔥加薇信领优 惠，名额有限先到先得。扫码！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。链接,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+点击www.example.com领·取福利。优 惠,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。加薇信,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 报告撰写部分还需要完善。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。优 惠,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 实验分析部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+添加客服微信，免费领取内部资料。链接,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 数据清洗部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 实验分析部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 模型训练部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 报告撰写部分还需要完善。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 算法实现部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 代码注释部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+🔥联系电话13800138000，优惠名额有限。！！！,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。加薇信,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。进群,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。代理,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+🔥扫码加好友，优惠活动马上结束。免费！！！,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 模型训练部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 数据清洗部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 学习计划部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+V信联系，免费领取资料包。红包,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。加薇信,1,synthetic_spam
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 学习计划部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。！！！,1,synthetic_spam
+进群领取福利，群内每天发红包。链接,1,synthetic_spam
+V信联系，免 费领·取资料包。进群,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+这个电影剧情一般 但演员表现还可以。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+🔥扫码加好友，优惠活动马上结束。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 课程作业部分还需要完善。,0,synthetic_normal
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+点击www.example.com领取福利。进群,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 实验分析部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。私聊,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。代理,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。代理,1,synthetic_spam
+🔥贷款快速到账，无需抵押，微信联系。免费！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。代理,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。免 费,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我觉得这个算法还有优化空间 可以继续调参。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+点击www.example.com领取福利。扫码,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。免费,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。返现,1,synthetic_spam
+请大家按时提交报告和代码说明。 模型训练部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+进群领取福利，群内每天发红包。进群,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 实验分析部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。链接,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。代理,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+🔥V信联系，免费领取资料包。！！！,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+添加客服微信，免费领取内部资料。免费,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 算法实现部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+进群领取福利，群内每天发红包。免费,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 学习计划部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。红包！！！,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。！！！,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。代理,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 课堂讨论部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 课程作业部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 实验分析部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+点击www.example.com领·取福利。优 惠,1,synthetic_spam
+添加客服微信，免费领取内部资料。私聊,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥联系电话13800138000，优 惠名额有限。！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。返现,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。返·现,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+点击www.example.com领·取福利。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。免 费！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 课程作业部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥联系电话13800138000，优 惠名额有限。！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。链接,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 学习计划部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+请大家按时提交报告和代码说明。 报告撰写部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+今天的天气很好 下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。链 接,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。优 惠,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 学习计划部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+进群领·取福利，群内每天发红包。扫码,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。免 费,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 学习计划部分还需要完善。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+添加客服微信，免费领取内部资料。私聊,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 数据清洗部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。优 惠,1,synthetic_spam
+🔥V信联系，免 费领·取资料包。优 惠！！！,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 代码注释部分还需要完善。,0,synthetic_normal
+V信联系，免 费领·取资料包。链 接,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+添加客服微信，免费领取内部资料。扫码,1,synthetic_spam
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。 算法实现部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。进群,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。扫码！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 系统设计部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 学习计划部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。加薇信,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+数据标注规范需要统一 否则会影响实验结果。,0,synthetic_normal
+进群领取福利，群内每天发红包。扫码,1,synthetic_spam
+点击www.example.com领·取福利。返·现,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。链接！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。优 惠,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。进群,1,synthetic_spam
+进群领取福利，群内每天发红包。扫码,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+🔥点击链 接领·取优 惠券，限时秒杀。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。优惠,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 报告撰写部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 代码注释部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 实验分析部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。私 聊,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。优惠,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。免费,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。优惠,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 代码注释部分还需要完善。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。代理,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+这个课程讲得很清楚 案例也比较实用。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。红包,1,synthetic_spam
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。 课程作业部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 代码注释部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。免费,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。代理,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+这个课程讲得很清楚 案例也比较实用。 课程作业部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+今天的天气很好 下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+数据标注规范需要统一 否则会影响实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 系统设计部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+进群领取福利，群内每天发红包。优惠,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 实验分析部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+这个电影剧情一般 但演员表现还可以。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。链 接,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。加薇信,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 学习计划部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。扫码,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。免费,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 课堂讨论部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+私聊我返现，扫码进群领红包。链接,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 数据清洗部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。进群,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。进群,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。优惠！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 系统设计部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。扫码,1,synthetic_spam
+私聊我返现，扫码进群领红包。加微信,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。扫码,1,synthetic_spam
+V信联系，免费领取资料包。扫码,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+今天的天气很好 下午准备去图书馆学习。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。免费,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。红包,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+点击www.example.com领·取福利。加薇信,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。代理,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 数据清洗部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 数据清洗部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 模型训练部分还需要完善。,0,synthetic_normal
+V信联系，免 费领·取资料包。私 聊,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。链接,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。返现,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 代码注释部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。链 接,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 算法实现部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+今天的天气很好 下午准备去图书馆学习。 实验分析部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。 系统设计部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。进群,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。私 聊,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。返·现,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 课程作业部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。 报告撰写部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+我觉得这个算法还有优化空间 可以继续调参。 代码注释部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 代码注释部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。进群,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。代理,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+添加客服微信，免费领取内部资料。代理,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。私 聊！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。优惠,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 实验分析部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。链接,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。私聊,1,synthetic_spam
+项目进度正常 明天继续整理实验结果。 报告撰写部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。代理！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。 实验分析部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 代码注释部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+🔥加微代理赚钱，团队扶持，轻松月入过万。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 模型训练部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。扫码,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。进群,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。！！！,1,synthetic_spam
+🔥点击www.example.com领取福利。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+🔥联系电话13800138000，优 惠名额有限。！！！,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+请大家按时提交报告和代码说明。 数据清洗部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+进群领取福利，群内每天发红包。扫码,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。免费,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 报告撰写部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。代理,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 课程作业部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 实验分析部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥V信联系，免费领取资料包。！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。加微信,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。优惠,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。进群,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+🔥博彩平台开户，首充返利，私聊领取。！！！,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。私聊！！！,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。进群,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这个课程讲得很清楚 案例也比较实用。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+点击www.example.com领·取福利。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。链 接,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 课堂讨论部分还需要完善。,0,synthetic_normal
+🔥加薇信领优惠，名额有限先到先得。加微信！！！,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。优 惠！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 代码注释部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+🔥V信联系，免 费领·取资料包。！！！,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。链接,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。扫码！！！,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+添加客服微信，免费领取内部资料。红包,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 算法实现部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。红包,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。私 聊,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。返·现,1,synthetic_spam
+🔥点击www.example.com领·取福利。代理！！！,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+🔥联系电话13800138000，优 惠名额有限。返·现！！！,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。进群,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。代理,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+点击www.example.com领·取福利。,1,synthetic_spam
+🔥V信联系，免 费领·取资料包。！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。返现,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 数据清洗部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。返·现,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。私 聊,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 学习计划部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。返·现,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。红包,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。加薇信,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。免费,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。代理！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。返现,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。 代码注释部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+🔥联系电话13800138000，优 惠名额有限。加薇信！！！,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。私 聊,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+🔥贷款快速到账，无需抵押，微信联系。！！！,1,synthetic_spam
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 课堂讨论部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 系统设计部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。私聊,1,synthetic_spam
+我觉得这个算法还有优化空间 可以继续调参。 系统设计部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+🔥扫码加好友，优惠活动马上结束。返现！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。进群,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这个电影剧情一般 但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。私 聊,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。免 费,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。加微信！！！,1,synthetic_spam
+🔥点击www.example.com领取福利。！！！,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+请大家按时提交报告和代码说明。 实验分析部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。进群,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。 代码注释部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥V信联系，免费领取资料包。！！！,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。私 聊,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。 报告撰写部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 学习计划部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。返现,1,synthetic_spam
+V信联系，免费领取资料包。优惠,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+🔥私 聊我返·现，扫码进群领红包。！！！,1,synthetic_spam
+点击www.example.com领取福利。红包,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 系统设计部分还需要完善。,0,synthetic_normal
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。扫码,1,synthetic_spam
+低价推广引流，精准获客，联系wx。私 聊,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 实验分析部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 课堂讨论部分还需要完善。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+请大家按时提交报告和代码说明。 数据清洗部分还需要完善。,0,synthetic_normal
+V信联系，免 费领·取资料包。链 接,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。红包,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 系统设计部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这条评论只是普通交流 没有广告内容。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。进群,1,synthetic_spam
+低价推广引流，精准获客，联系wx。私 聊,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。代理,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 报告撰写部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。加薇信,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+🔥V信联系，免 费领·取资料包。免 费！！！,1,synthetic_spam
+进群领取福利，群内每天发红包。免费,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 模型训练部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 实验分析部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+请大家按时提交报告和代码说明。 代码注释部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 实验分析部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 代码注释部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。代理,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。进群,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+请大家按时提交报告和代码说明。 数据清洗部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 系统设计部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 代码注释部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 课程作业部分还需要完善。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 系统设计部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 报告撰写部分还需要完善。,0,synthetic_normal
+添加客服微信，免费领取内部资料。加微信,1,synthetic_spam
+点击www.example.com领取福利。进群,1,synthetic_spam
+V信联系，免费领取资料包。加微信,1,synthetic_spam
+点击www.example.com领·取福利。免 费,1,synthetic_spam
+这个课程讲得很清楚 案例也比较实用。 实验分析部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 报告撰写部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+这条评论只是普通交流 没有广告内容。 算法实现部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 数据清洗部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。免费,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。私聊,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 算法实现部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 代码注释部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥V信联系，免费领取资料包。！！！,1,synthetic_spam
+🔥点击www.example.com领取福利。！！！,1,synthetic_spam
+🔥联系电话13800138000，优 惠名额有限。！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 报告撰写部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。红包,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。红包！！！,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+点击www.example.com领取福利。返现,1,synthetic_spam
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。优惠,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 报告撰写部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 课堂讨论部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。扫码,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。 数据清洗部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+添加客服微信，免费领取内部资料。加微信,1,synthetic_spam
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 学习计划部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。代理,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 算法实现部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。返现,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。私聊,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。返现,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。红包,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+点击www.example.com领·取福利。优 惠,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 模型训练部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥低价推广引流，精准获客，联系wx。进群！！！,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 学习计划部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 数据清洗部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+🔥点击链接领取优惠券，限时秒杀。私聊！！！,1,synthetic_spam
+我觉得这个算法还有优化空间 可以继续调参。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 报告撰写部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。红包,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+点击www.example.com领·取福利。扫码,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。扫码！！！,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 系统设计部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。 课堂讨论部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 报告撰写部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 算法实现部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。优惠,1,synthetic_spam
+联系电话13800138000，优惠名额有限。返现,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。返·现,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。返·现,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。代理,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。免 费,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥加微信免费领取课程资料，数量有限。链接！！！,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 模型训练部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。扫码,1,synthetic_spam
+请大家按时提交报告和代码说明。 报告撰写部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。优惠,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 报告撰写部分还需要完善。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，微信联系。免费！！！,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+点击www.example.com领取福利。进群,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。 模型训练部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 代码注释部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 模型训练部分还需要完善。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。进群,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 模型训练部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 实验分析部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 系统设计部分还需要完善。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 系统设计部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+添加客服微信，免费领取内部资料。进群,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。链 接,1,synthetic_spam
+这个电影剧情一般 但演员表现还可以。 课程作业部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。代理,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 学习计划部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 实验分析部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 数据清洗部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+🔥加薇信领优 惠，名额有限先到先得。扫码！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 系统设计部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 学习计划部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。免费,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这个电影剧情一般 但演员表现还可以。 实验分析部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。加微信,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+私聊我返现，扫码进群领红包。红包,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 系统设计部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。代理,1,synthetic_spam
+🔥加薇信免 费领·取课程资料，数量有限。扫码！！！,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。链接,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。返现,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。返·现,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。加薇信,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥加微信免费领取课程资料，数量有限。！！！,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。私聊,1,synthetic_spam
+🔥加薇信领优 惠，名额有限先到先得。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 算法实现部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 模型训练部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+🔥兼职刷单日结，佣金秒到账，加vx了解。优 惠！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。链接,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 系统设计部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 数据清洗部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 课程作业部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。优 惠,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 学习计划部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+我觉得这个算法还有优化空间 可以继续调参。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。免费,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+🔥加微代理赚钱，团队扶持，轻松月入过万。免 费！！！,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。优惠,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 系统设计部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+数据标注规范需要统一 否则会影响实验结果。 课程作业部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+🔥兼职刷单日结，佣金秒到账，加vx了解。！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 实验分析部分还需要完善。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。链 接！！！,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+这家店的服务态度不错 物流速度也很快。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥加薇信领优 惠，名额有限先到先得。进群！！！,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+这个电影剧情一般 但演员表现还可以。 实验分析部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。进群,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 课堂讨论部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+进群领取福利，群内每天发红包。链接,1,synthetic_spam
+🔥贷款快速到账，无需抵押，微信联系。优惠！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+🔥添加客服薇信，免 费领·取内部资料。私 聊！！！,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。代理,1,synthetic_spam
+数据标注规范需要统一 否则会影响实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 实验分析部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+🔥加微信免费领取课程资料，数量有限。红包！！！,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。免费,1,synthetic_spam
+扫码加好友，优惠活动马上结束。免费,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。红包,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+🔥加微信免费领取课程资料，数量有限。！！！,1,synthetic_spam
+🔥点击www.example.com领取福利。私聊！！！,1,synthetic_spam
+🔥兼职刷单日结，佣金秒到账，加vx了解。免费！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 代码注释部分还需要完善。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+数据标注规范需要统一 否则会影响实验结果。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，薇信联系。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 系统设计部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我觉得这个算法还有优化空间 可以继续调参。 实验分析部分还需要完善。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+V信联系，免费领取资料包。返现,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+添加客服微信，免费领取内部资料。红包,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 报告撰写部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。进群,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 代码注释部分还需要完善。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 模型训练部分还需要完善。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这个电影剧情一般 但演员表现还可以。 课程作业部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。进群,1,synthetic_spam
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+这家店的服务态度不错 物流速度也很快。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。 模型训练部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 代码注释部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。返·现,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 模型训练部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+🔥添加客服微信，免费领取内部资料。扫码！！！,1,synthetic_spam
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。进群,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+数据标注规范需要统一 否则会影响实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。 学习计划部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。红包,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。红包！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 课堂讨论部分还需要完善。,0,synthetic_normal
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。 学习计划部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。链接,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥点击链 接领·取优 惠券，限时秒杀。链 接！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 学习计划部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。返·现,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 模型训练部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 学习计划部分还需要完善。,0,synthetic_normal
+🔥点击www.example.com领·取福利。免 费！！！,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。进群,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+🔥进群领·取福利，群内每天发红包。私 聊！！！,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+私聊我返现，扫码进群领红包。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。代理,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。加薇信,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 数据清洗部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 课堂讨论部分还需要完善。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+🔥贷款快速到账，无需抵押，微信联系。！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。红包,1,synthetic_spam
+V信联系，免费领取资料包。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 模型训练部分还需要完善。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+🔥加微信免费领取课程资料，数量有限。！！！,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。红包,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 课堂讨论部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 代码注释部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。链 接,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。进群,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+私聊我返现，扫码进群领红包。私聊,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 课堂讨论部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 课程作业部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。链接,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 课堂讨论部分还需要完善。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，微信联系。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。私 聊,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。红包,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 模型训练部分还需要完善。,0,synthetic_normal
+🔥私聊我返现，扫码进群领红包。链接！！！,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+加微信免费领取课程资料，数量有限。加微信,1,synthetic_spam
+🔥联系电话13800138000，优惠名额有限。！！！,1,synthetic_spam
+🔥扫码加好友，优 惠活动马上结束。！！！,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 课程作业部分还需要完善。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。 课堂讨论部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 模型训练部分还需要完善。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。红包,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+扫码加好友，优惠活动马上结束。私聊,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 数据清洗部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 课堂讨论部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。免费,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+进群领·取福利，群内每天发红包。,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。代理,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+🔥点击www.example.com领取福利。代理！！！,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。进群,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+🔥加薇信领优 惠，名额有限先到先得。！！！,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。 代码注释部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。代理,1,synthetic_spam
+添加客服微信，免费领取内部资料。私聊,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 模型训练部分还需要完善。,0,synthetic_normal
+🔥进群领·取福利，群内每天发红包。！！！,1,synthetic_spam
+联系电话13800138000，优惠名额有限。红包,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+这条评论只是普通交流 没有广告内容。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 课程作业部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。！！！,1,synthetic_spam
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+🔥私聊我返现，扫码进群领红包。扫码！！！,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+🔥添加客服薇信，免 费领·取内部资料。私 聊！！！,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+🔥添加客服薇信，免 费领·取内部资料。！！！,1,synthetic_spam
+🔥联系电话13800138000，优 惠名额有限。红包！！！,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 实验分析部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。红包,1,synthetic_spam
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+请大家按时提交报告和代码说明。 模型训练部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 代码注释部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 算法实现部分还需要完善。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 代码注释部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。代理,1,synthetic_spam
+扫码加好友，优惠活动马上结束。私聊,1,synthetic_spam
+🔥加微信免费领取课程资料，数量有限。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 学习计划部分还需要完善。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+加薇信免 费领·取课程资料，数量有限。返·现,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 数据清洗部分还需要完善。,0,synthetic_normal
+加薇信免 费领·取课程资料，数量有限。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私 聊领·取。进群！！！,1,synthetic_spam
+加薇信领优 惠，名额有限先到先得。红包,1,synthetic_spam
+🔥联系电话13800138000，优惠名额有限。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。扫码,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 算法实现部分还需要完善。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+进群领取福利，群内每天发红包。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+🔥博彩平台开户，首充返利，私 聊领·取。返·现！！！,1,synthetic_spam
+V信联系，免费领取资料包。私聊,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+🔥进群领取福利，群内每天发红包。！！！,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 代码注释部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。 课堂讨论部分还需要完善。,0,synthetic_normal
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。返·现,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 课程作业部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+私 聊我返·现，扫码进群领红包。私 聊,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。 报告撰写部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。 学习计划部分还需要完善。,0,synthetic_normal
+添加客服微信，免费领取内部资料。,1,synthetic_spam
+数据标注规范需要统一 否则会影响实验结果。 报告撰写部分还需要完善。,0,synthetic_normal
+私 聊我返·现，扫码进群领红包。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。,1,synthetic_spam
+请大家按时提交报告和代码说明。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥加微代理赚钱，团队扶持，轻松月入过万。返·现！！！,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。 系统设计部分还需要完善。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+🔥加薇信领优惠，名额有限先到先得。！！！,1,synthetic_spam
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+🔥点击链 接领·取优 惠券，限时秒杀。扫码！！！,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+🔥贷款快速到账，无需抵押，薇信联系。优 惠！！！,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+贷款快速到账，无需抵押，薇信联系。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+🔥私聊我返现，扫码进群领红包。！！！,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 模型训练部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。免 费,1,synthetic_spam
+🔥博彩平台开户，首充返利，私聊领取。！！！,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。 报告撰写部分还需要完善。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。红包,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 课程作业部分还需要完善。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+添加客服薇信，免 费领·取内部资料。,1,synthetic_spam
+私聊我返现，扫码进群领红包。红包,1,synthetic_spam
+项目进度正常 明天继续整理实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+🔥博彩平台开户，首充返利，私聊领取。返现！！！,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。加微信,1,synthetic_spam
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+这个电影剧情一般 但演员表现还可以。 课堂讨论部分还需要完善。,0,synthetic_normal
+扫码加好友，优惠活动马上结束。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。加薇信,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+加薇信领优惠，名额有限先到先得。,1,synthetic_spam
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 实验分析部分还需要完善。,0,synthetic_normal
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 模型训练部分还需要完善。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。代理,1,synthetic_spam
+🔥低价推广引流，精准获客，联系wx。！！！,1,synthetic_spam
+我们小组今天讨论了系统架构和页面设计。 实验分析部分还需要完善。,0,synthetic_normal
+点击www.example.com领·取福利。代理,1,synthetic_spam
+🔥V信联系，免 费领·取资料包。！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。链 接,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+扫码加好友，优 惠活动马上结束。,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+进群领取福利，群内每天发红包。返现,1,synthetic_spam
+点击www.example.com领·取福利。,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+🔥加薇信免 费领·取课程资料，数量有限。！！！,1,synthetic_spam
+V信联系，免 费领·取资料包。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+🔥点击链接领取优惠券，限时秒杀。！！！,1,synthetic_spam
+进群领取福利，群内每天发红包。加微信,1,synthetic_spam
+博彩平台开户，首充返利，私聊领取。加微信,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 课程作业部分还需要完善。,0,synthetic_normal
+联系电话13800138000，优 惠名额有限。,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+低价推广引流，精准获客，联系wx。进群,1,synthetic_spam
+进群领取福利，群内每天发红包。,1,synthetic_spam
+点击www.example.com领取福利。,1,synthetic_spam
+V信联系，免费领取资料包。进群,1,synthetic_spam
+🔥V信联系，免费领取资料包。私聊！！！,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+这个电影剧情一般，但演员表现还可以。 实验分析部分还需要完善。,0,synthetic_normal
+🔥点击www.example.com领取福利。加微信！！！,1,synthetic_spam
+进群领·取福利，群内每天发红包。加薇信,1,synthetic_spam
+🔥添加客服微信，免费领取内部资料。！！！,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。代理,1,synthetic_spam
+这家店的服务态度不错，物流速度也很快。 数据清洗部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。 学习计划部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+请大家按时提交报告和代码说明。 学习计划部分还需要完善。,0,synthetic_normal
+进群领·取福利，群内每天发红包。链 接,1,synthetic_spam
+进群领取福利，群内每天发红包。返现,1,synthetic_spam
+阅读材料里提到了召回率和精确率的区别。 实验分析部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。 数据清洗部分还需要完善。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+这个课程讲得很清楚，案例也比较实用。 模型训练部分还需要完善。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。 学习计划部分还需要完善。,0,synthetic_normal
+点击链接领取优惠券，限时秒杀。,1,synthetic_spam
+我觉得这个算法还有优化空间，可以继续调参。,0,synthetic_normal
+博彩平台开户，首充返利，私聊领取。进群,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+加薇信领优 惠，名额有限先到先得。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。 课堂讨论部分还需要完善。,0,synthetic_normal
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+项目进度正常，明天继续整理实验结果。,0,synthetic_normal
+周末打算复习机器学习和自然语言处理。,0,synthetic_normal
+这条评论只是普通交流，没有广告内容。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。返·现,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+V信联系，免费领取资料包。,1,synthetic_spam
+模型训练完成后需要保存参数并做测试。,0,synthetic_normal
+博彩平台开户，首充返利，私 聊领·取。,1,synthetic_spam
+今天的天气很好，下午准备去图书馆学习。 系统设计部分还需要完善。,0,synthetic_normal
+这家店的服务态度不错，物流速度也很快。,0,synthetic_normal
+请大家按时提交报告和代码说明。,0,synthetic_normal
+V信联系，免 费领·取资料包。,1,synthetic_spam
+这个课程讲得很清楚，案例也比较实用。,0,synthetic_normal
+我们小组今天讨论了系统架构和页面设计。,0,synthetic_normal
+贷款快速到账，无需抵押，微信联系。,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 数据清洗部分还需要完善。,0,synthetic_normal
+私聊我返现，扫码进群领红包。进群,1,synthetic_spam
+联系电话13800138000，优 惠名额有限。优 惠,1,synthetic_spam
+加微信免费领取课程资料，数量有限。,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。,0,synthetic_normal
+论文主要介绍了文本分类模型和评测指标。,0,synthetic_normal
+模型训练完成后需要保存参数并做测试。 系统设计部分还需要完善。,0,synthetic_normal
+点击链 接领·取优 惠券，限时秒杀。链 接,1,synthetic_spam
+这条评论只是普通交流，没有广告内容。 算法实现部分还需要完善。,0,synthetic_normal
+这个电影剧情一般，但演员表现还可以。,0,synthetic_normal
+联系电话13800138000，优惠名额有限。,1,synthetic_spam
+兼职刷单日结，佣金秒到账，加vx了解。免费,1,synthetic_spam
+论文主要介绍了文本分类模型和评测指标。 实验分析部分还需要完善。,0,synthetic_normal
+今天的天气很好，下午准备去图书馆学习。,0,synthetic_normal
+老师布置的实验需要先完成数据预处理。,0,synthetic_normal
+低价推广引流，精准获客，联系wx。进群,1,synthetic_spam
+私聊我返现，扫码进群领红包。免费,1,synthetic_spam
+数据标注规范需要统一，否则会影响实验结果。 系统设计部分还需要完善。,0,synthetic_normal
+阅读材料里提到了召回率和精确率的区别。,0,synthetic_normal
+点击www.example.com领取福利。,1,synthetic_spam
+加微代理赚钱，团队扶持，轻松月入过万。,1,synthetic_spam
+贷款快速到账，无需抵押，微信联系。加微信,1,synthetic_spam
+点击链 接领·取优 惠券，限时秒杀。,1,synthetic_spam

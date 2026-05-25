@@ -1,0 +1,18 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": [
+    [
+      300,
+      0
+    ],
+    [
+      0,
+      300
+    ]
+  ],
+  "n_train": 1800,
+  "n_test": 600
+}
