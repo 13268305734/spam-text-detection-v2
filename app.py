@@ -42,6 +42,9 @@ if "last_result" in st.session_state:
         st.error(f"{result['label_name']}，风险分数：{result['risk_score']:.3f}")
     else:
         st.success(f"{result['label_name']}，风险分数：{result['risk_score']:.3f}")
+    st.write(f"处置建议：{result['review_status']}")
+    if result["risk_categories"] and result["review_status"] != "通过":
+        st.write("风险类型：" + "、".join(result["risk_categories"]))
 
     c1, c2, c3 = st.columns(3)
     c1.metric("规则分数", result["rule_score"])

@@ -12,6 +12,11 @@ from spam_detector.ensemble import explain_prediction, fuse_score
 from spam_detector.model import load_model
 from spam_detector.rules import rule_score
 from spam_detector.similarity import variant_score, normalize_variants, suspicious_keywords
+from spam_detector.risk_analysis import (
+    apply_context_suppression,
+    infer_risk_categories,
+    review_status,
+)
 
 st.set_page_config(
     page_title="高级互联网垃圾文本检测系统",
@@ -56,7 +61,7 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
     transformer_bundle = None
     transformer_error = None
 
-    r_score, r_reasons, _ = rule_score(text)
+    r_score, r_reasons, r_features = rule_score(text)
     v_score, v_reasons = variant_score(text)
     tfidf_score = tfidf_probability(tfidf_model, text)
     transformer_score = None
@@ -76,11 +81,13 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
         model_score = tfidf_score
 
     risk_score = fuse_score(r_score, model_score, v_score)
+    risk_score, context_reasons = apply_context_suppression(risk_score, text)
     label = int(risk_score >= threshold)
 
     reasons = []
     reasons.extend(r_reasons)
     reasons.extend(v_reasons)
+    reasons.extend(context_reasons)
     if tfidf_score is not None:
         reasons.append(f"TF-IDF/LR 模型垃圾概率：{tfidf_score:.3f}")
     if transformer_score is not None:
@@ -89,6 +96,8 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
         reasons.append("Transformer 未启用：" + transformer_error.split("\n")[0])
     if not reasons:
         reasons.append("未命中明显风险信号")
+    keywords = suspicious_keywords(text)
+    categories = infer_risk_categories(r_features, keywords)
 
     return {
         "text": text,
@@ -102,8 +111,10 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
         "transformer_score": None if transformer_score is None else round(float(transformer_score), 4),
         "model_mode": model_mode,
         "threshold": threshold,
+        "review_status": review_status(risk_score, threshold, categories),
+        "risk_categories": categories,
         "reasons": reasons,
-        "keywords": suspicious_keywords(text),
+        "keywords": keywords,
     }
 
 def highlight_text(text: str, keywords: List[str]) -> str:
@@ -177,6 +188,9 @@ with tab_single:
             st.error(f"{result['label_name']}，风险分数：{result['risk_score']:.3f}")
         else:
             st.success(f"{result['label_name']}，风险分数：{result['risk_score']:.3f}")
+        st.write(f"处置建议：{result['review_status']}")
+        if result["risk_categories"] and result["review_status"] != "通过":
+            st.write("风险类型：" + "、".join(result["risk_categories"]))
 
         c1, c2, c3, c4 = st.columns(4)
         c1.metric("规则分数", result["rule_score"])
@@ -228,10 +242,26 @@ with tab_batch:
                     "variant_score": out["variant_score"],
                     "tfidf_score": out["tfidf_score"],
                     "transformer_score": out["transformer_score"],
+                    "review_status": out["review_status"],
+                    "risk_categories": "、".join(out["risk_categories"]),
                     "reasons": "；".join(out["reasons"][:3]),
                 })
             out_df = pd.DataFrame(rows)
             st.dataframe(out_df, use_container_width=True)
+            if "risk_categories" in out_df.columns:
+                st.subheader("批量风险概览")
+                review_counts = out_df["review_status"].value_counts().rename_axis("status").reset_index(name="count")
+                st.dataframe(review_counts, use_container_width=True)
+                category_counts = (
+                    out_df.assign(risk_categories=out_df["risk_categories"].str.split("、"))
+                    .explode("risk_categories")
+                )
+                category_counts = category_counts[category_counts["risk_categories"].astype(str).str.len() > 0]
+                if not category_counts.empty:
+                    st.bar_chart(category_counts["risk_categories"].value_counts())
+                high_risk = out_df.sort_values("risk_score", ascending=False).head(5)
+                st.write("高风险 Top 5")
+                st.dataframe(high_risk[["text", "risk_score", "review_status", "risk_categories"]], use_container_width=True)
             st.download_button(
                 "下载检测结果 CSV",
                 out_df.to_csv(index=False, encoding="utf-8-sig"),
