@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 TFIDF_MODEL_PATH = Path("models/tfidf_lr.joblib")
-DEFAULT_TRANSFORMER_DIR = "kudouKID/spam-text-detect-roberta"
+DEFAULT_TRANSFORMER_DIR = "kudouKID/mroberta-spam-v2"
 
 @st.cache_resource(show_spinner=False)
 def load_tfidf_model():
