@@ -1,0 +1,1 @@
+torchrun --nproc_per_node=4 train.py --config ./configs/xlm-roberta-base.yaml --train_data ./data/train.csv --val_data ./data/val.csv --output_dir ./outputs/xlm-roberta-base
