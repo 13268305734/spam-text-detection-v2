@@ -1,6 +1,8 @@
+import pytest
+
 from spam_detector.similarity import normalize_variants, suspicious_keywords
 from spam_detector.rules import rule_score
-from spam_detector.ensemble import explain_prediction
+from spam_detector.ensemble import explain_prediction, fuse_score
 from spam_detector.preprocess import is_all_chinese_text
 
 def test_variant_normalization():
@@ -26,3 +28,11 @@ def test_all_chinese_text():
     assert is_all_chinese_text("课程 123：模型训练！")
     assert not is_all_chinese_text("中文 mixed text")
     assert not is_all_chinese_text("English only")
+
+def test_fuse_score_uses_model_focused_weights():
+    score = fuse_score(rule=0.2, model=0.8, variant=0.4)
+    assert score == pytest.approx(0.64)
+
+def test_fuse_score_renormalizes_without_model():
+    score = fuse_score(rule=0.6, model=None, variant=0.3)
+    assert score == pytest.approx(0.5)

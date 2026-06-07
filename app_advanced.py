@@ -156,6 +156,8 @@ examples = [
     "加 v 信 领·取 优 惠，先到先得",
     "私 聊 我 返·现，扫码进群领红包",
     "微信小程序开发需要配置环境。",
+    "The course explains machine learning concepts clearly.",
+    "Congratulations! Click the link to claim your free prize now!",
 ]
 
 tab_single, tab_batch, tab_compare, tab_train = st.tabs([

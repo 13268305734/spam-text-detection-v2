@@ -19,6 +19,8 @@ examples = [
     "私 聊 我 返·现，扫码进群领红包",
     "项目报告今天需要补充实验结果分析。",
     "点击www.example.com领取优惠券，加vx了解",
+    "The course explains machine learning concepts clearly.",
+    "Congratulations! Click the link to claim your free prize now!",
 ]
 
 text = st.text_area("请输入待检测文本", value=examples[1], height=120)
