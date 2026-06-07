@@ -10,6 +10,7 @@ import streamlit as st
 
 from spam_detector.ensemble import explain_prediction, fuse_score
 from spam_detector.model import load_model
+from spam_detector.preprocess import is_all_chinese_text
 from spam_detector.rules import rule_score
 from spam_detector.similarity import variant_score, normalize_variants, suspicious_keywords
 
@@ -35,7 +36,7 @@ def load_optional_transformer(model_dir: str):
         if path.exists() or "/" in model_dir:
             return load_transformer_model(model_dir), None
         else:
-            return None, f"未找到 Transformer checkpoint：{path}"
+            return None, f"未找到 RoBERTa checkpoint：{path}"
     except Exception as exc:
         return None, str(exc)
 
@@ -52,26 +53,34 @@ def transformer_probability(bundle, text: str):
     return predict_transformer(bundle, [text])[0]
 
 def make_prediction(text: str, threshold: float, model_mode: str, transformer_dir: str):
-    tfidf_model = load_tfidf_model()
     transformer_bundle = None
     transformer_error = None
 
     r_score, r_reasons, _ = rule_score(text)
     v_score, v_reasons = variant_score(text)
-    tfidf_score = tfidf_probability(tfidf_model, text)
+    dual_model_mode = model_mode == "TF-IDF + RoBERTa 双模型"
+    tfidf_skipped = dual_model_mode and not is_all_chinese_text(text)
+    use_tfidf = model_mode in ["TF-IDF/LR", "RoBERTa 优先"] or (
+        dual_model_mode and not tfidf_skipped
+    )
+    tfidf_model = load_tfidf_model() if use_tfidf else None
+    tfidf_score = tfidf_probability(tfidf_model, text) if use_tfidf else None
     transformer_score = None
 
-    if model_mode in ["Transformer/RoBERTa 优先", "TF-IDF + Transformer 双模型"]:
+    if model_mode in ["RoBERTa 优先", "TF-IDF + RoBERTa 双模型"]:
         transformer_bundle, transformer_error = load_optional_transformer(transformer_dir)
         transformer_score = transformer_probability(transformer_bundle, text) if transformer_bundle else None
 
     if model_mode == "仅规则+变体":
         model_score = None
-    elif model_mode == "Transformer/RoBERTa 优先":
+    elif model_mode == "RoBERTa 优先":
         model_score = transformer_score if transformer_score is not None else tfidf_score
-    elif model_mode == "TF-IDF + Transformer 双模型":
-        vals = [x for x in [tfidf_score, transformer_score] if x is not None]
-        model_score = sum(vals) / len(vals) if vals else None
+    elif model_mode == "TF-IDF + RoBERTa 双模型":
+        if tfidf_skipped:
+            model_score = transformer_score
+        else:
+            vals = [x for x in [tfidf_score, transformer_score] if x is not None]
+            model_score = sum(vals) / len(vals) if vals else None
     else:
         model_score = tfidf_score
 
@@ -81,12 +90,14 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
     reasons = []
     reasons.extend(r_reasons)
     reasons.extend(v_reasons)
-    if tfidf_score is not None:
+    if tfidf_skipped:
+        reasons.append("非中文文本：双模型模式跳过 TF-IDF/LR，仅使用 RoBERTa")
+    elif tfidf_score is not None:
         reasons.append(f"TF-IDF/LR 模型垃圾概率：{tfidf_score:.3f}")
     if transformer_score is not None:
-        reasons.append(f"Transformer/RoBERTa 模型垃圾概率：{transformer_score:.3f}")
+        reasons.append(f"RoBERTa 模型垃圾概率：{transformer_score:.3f}")
     if transformer_error and model_mode != "TF-IDF/LR":
-        reasons.append("Transformer 未启用：" + transformer_error.split("\n")[0])
+        reasons.append("RoBERTa 未启用：" + transformer_error.split("\n")[0])
     if not reasons:
         reasons.append("未命中明显风险信号")
 
@@ -100,6 +111,7 @@ def make_prediction(text: str, threshold: float, model_mode: str, transformer_di
         "variant_score": round(float(v_score), 4),
         "tfidf_score": None if tfidf_score is None else round(float(tfidf_score), 4),
         "transformer_score": None if transformer_score is None else round(float(transformer_score), 4),
+        "model_score": None if model_score is None else round(float(model_score), 4),
         "model_mode": model_mode,
         "threshold": threshold,
         "reasons": reasons,
@@ -122,18 +134,21 @@ def highlight_text(text: str, keywords: List[str]) -> str:
     return safe
 
 st.title("🛡️ 高级互联网垃圾文本检测系统")
-st.caption("支持：规则解释、变体归一化、TF-IDF/LR、可选 BERT/RoBERTa、批量检测、风险可视化")
+st.caption("支持：规则解释、变体归一化、TF-IDF/LR、可选 RoBERTa、批量检测、风险可视化")
 
 with st.sidebar:
     st.header("检测配置")
     model_mode = st.selectbox(
         "模型模式",
-        ["TF-IDF/LR", "Transformer/RoBERTa 优先", "TF-IDF + Transformer 双模型", "仅规则+变体"],
+        ["TF-IDF/LR", "RoBERTa 优先", "TF-IDF + RoBERTa 双模型", "仅规则+变体"],
         index=0,
     )
     threshold = st.slider("风险阈值", 0.0, 1.0, 0.50, 0.01)
-    transformer_dir = st.text_input("Transformer 目录或云端模型名称", value=str(DEFAULT_TRANSFORMER_DIR))
-    st.info("未训练 RoBERTa checkpoint 时，系统会自动回退到 TF-IDF/LR 或规则检测。")
+    transformer_dir = st.text_input("RoBERTa 目录或云端模型名称", value=str(DEFAULT_TRANSFORMER_DIR))
+    st.info(
+        "双模型模式仅对中文文本计算 TF-IDF/LR；非中文文本仅使用 RoBERTa。"
+        "RoBERTa 不可用时，系统会回退到可用的检测模块。"
+    )
 
 examples = [
     "这个课程讲得挺清楚的，案例也很实用。",
@@ -182,7 +197,7 @@ with tab_single:
         c1.metric("规则分数", result["rule_score"])
         c2.metric("变体分数", result["variant_score"])
         c3.metric("TF-IDF/LR", "N/A" if result["tfidf_score"] is None else result["tfidf_score"])
-        c4.metric("Transformer", "N/A" if result["transformer_score"] is None else result["transformer_score"])
+        c4.metric("RoBERTa", "N/A" if result["transformer_score"] is None else result["transformer_score"])
 
         st.progress(min(result["risk_score"], 1.0))
 
@@ -228,6 +243,7 @@ with tab_batch:
                     "variant_score": out["variant_score"],
                     "tfidf_score": out["tfidf_score"],
                     "transformer_score": out["transformer_score"],
+                    "model_score": out["model_score"],
                     "reasons": "；".join(out["reasons"][:3]),
                 })
             out_df = pd.DataFrame(rows)
@@ -260,7 +276,7 @@ with tab_compare:
             {"module": "Rule", "score": out["rule_score"]},
             {"module": "Variant", "score": out["variant_score"]},
             {"module": "TF-IDF/LR", "score": out["tfidf_score"] or 0.0},
-            {"module": "Transformer", "score": out["transformer_score"] or 0.0},
+            {"module": "RoBERTa", "score": out["transformer_score"] or 0.0},
             {"module": "Final", "score": out["risk_score"]},
         ])
         st.bar_chart(chart_df, x="module", y="score")
@@ -269,7 +285,7 @@ with tab_compare:
 with tab_train:
     st.subheader("BERT/RoBERTa 微调方式")
     st.markdown("""
-本高级版已经加入可选 Transformer 支持。由于预训练模型体积较大，压缩包中没有内置权重。联网或已有本地 HuggingFace 缓存时，可运行：
+本高级版已经加入可选 RoBERTa 支持。由于预训练模型体积较大，压缩包中没有内置权重。联网或已有本地 HuggingFace 缓存时，可运行：
 
 ```bash
 pip install torch transformers accelerate datasets

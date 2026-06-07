@@ -42,6 +42,15 @@ def char_tokens(text: str) -> str:
 def contains_chinese(text: str) -> bool:
     return bool(re.search(r"[\u4e00-\u9fff]", text or ""))
 
+def is_all_chinese_text(text: str) -> bool:
+    """Return whether all language-bearing characters are Chinese.
+
+    Whitespace, punctuation, digits, and symbols do not determine the language.
+    At least one Chinese character is required.
+    """
+    letters = [ch for ch in text or "" if ch.isalpha()]
+    return bool(letters) and all("\u4e00" <= ch <= "\u9fff" for ch in letters)
+
 def repeated_char_ratio(text: str) -> float:
     text = clean_text(text, keep_space=False)
     if not text:
